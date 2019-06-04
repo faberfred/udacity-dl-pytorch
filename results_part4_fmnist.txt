@@ -1,0 +1,4 @@
+hidden_layers = [1800, 900, 600, 300]
+epochs = 30
+optimizer = optim.Adam(netmodel.parameters(), lr=0.0003)
+=> Test Accuracy: 0.894
