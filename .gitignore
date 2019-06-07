@@ -5,3 +5,5 @@ __pycache__/
 Cat_Dog_data.zip
 Cat_Dog_data/
 checkpoint.pth
+Part8-TransferLearningSolution.ipynb
+cuda-memery.ipynb
