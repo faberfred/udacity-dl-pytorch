@@ -7,3 +7,6 @@ Cat_Dog_data/
 checkpoint.pth
 Part8-TransferLearningSolution.ipynb
 cuda-memery.ipynb
+
+CIFAR_data/
+Part 4 - CIFAR.ipynb
